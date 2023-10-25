@@ -1,22 +1,34 @@
 # Introduction
 
-- 🌐 @RiOTDESiGN :
+- 🌐 About RiOTDESiGN :
 
-      I am a creative perfectionist with a broad set of skills,
-      currently working with API handling and deployment.
+  - Creative perfectionist with a broad set of skills
+  - Currently working with API handling and deployment
+  - Code is UI/UX focused, QA driven
 
 - 🗣️ Languages :
 
-      Norwegian, English, HTML, CSS, Javascript, React
+  - Norwegian
+  - English
+  - HTML
+  - CSS
+  - Javascript
+  - React
 
 - 💡 Interested in :
 
-      Psychology - Photography - Gaming - Coding - Music Production
-      Image Editing - Artificial Intelligence - Virtual Reality
+  - Psychology
+  - Photography
+  - Gaming
+  - Coding
+  - Music Production
+  - Image Editing
+  - Artificial Intelligence
+  - Virtual Reality
 
 - 🌱 Currently learning :
 
-      React component re-rendering handling
+  - React component re-rendering handling
 
 - 📫 Contact :
 
