@@ -1,3 +1,5 @@
+# Introduction
+
 - 🌐 @RiOTDESiGN :
 
       I am a creative perfectionist with a broad set of skills, currently working with API handling and deployment.
@@ -17,6 +19,17 @@
 - 📫 Contact :
 
       contact@riotdesign.no
+
+# Projects:
+## Current Project Status:
+- [x] Identified re-rendering components in React
+- [ ] Consolidate states in React Context or seperate components
+- [ ] Create a separate API call for Card Set that can be called from each individual card
+
+![Magic The Gathering Logo](https://media.wizards.com/2017/images/daily/41mztsnrdm.jpg)
+
+
+
 
 <!---
 RiOTDESiGN/RiOTDESiGN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
