@@ -21,6 +21,8 @@
       contact@riotdesign.no
 
 # Projects:
+Present and future project information can be found here.
+
 ## Current Project Status:
 - [x] Identified re-rendering components in React
 - [ ] Consolidate states in React Context or seperate components
@@ -28,7 +30,10 @@
 
 ![Magic The Gathering Logo](https://media.wizards.com/2017/images/daily/41mztsnrdm.jpg)
 
-
+## Future Project Status:
+- [x] Decided on e-commerce concept using React and API
+- [ ] Find a theme and a line of products relevant to the project
+- [ ] Create color templates and layouts based on inspirational, pre-existing sites
 
 
 <!---
