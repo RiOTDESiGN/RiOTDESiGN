@@ -2,7 +2,8 @@
 
 - 🌐 @RiOTDESiGN :
 
-      I am a creative perfectionist with a broad set of skills, currently working with API handling and deployment.
+      I am a creative perfectionist with a broad set of skills,
+      currently working with API handling and deployment.
 
 - 🗣️ Languages :
 
@@ -10,7 +11,8 @@
 
 - 💡 Interested in :
 
-      Psychology - Photography - Gaming - Coding - Music Production - Image Editing - Artificial Intelligence
+      Psychology - Photography - Gaming - Coding - Music Production
+      Image Editing - Artificial Intelligence - Virtual Reality
 
 - 🌱 Currently learning :
 
