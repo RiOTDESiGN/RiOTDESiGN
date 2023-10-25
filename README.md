@@ -1,12 +1,12 @@
 # Introduction
 
-- 🌐 About RiOTDESiGN :
+- ### 🌐 About RiOTDESiGN :
 
   - Creative perfectionist with a broad set of skills
   - Currently working with API handling and deployment
   - Code is UI/UX focused, QA driven
 
-- 🗣️ Languages :
+- ### 🗣️ Languages :
 
   - Norwegian
   - English
@@ -15,7 +15,7 @@
   - Javascript
   - React
 
-- 💡 Interested in :
+- ### 💡 Interested in :
 
   - Psychology
   - Photography
@@ -26,11 +26,11 @@
   - Artificial Intelligence
   - Virtual Reality
 
-- 🌱 Currently learning :
+- ### 🌱 Currently learning :
 
   - React component re-rendering handling
 
-- 📫 Contact :
+- ### 📫 Contact :
 
       contact@riotdesign.no
 
