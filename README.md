@@ -38,6 +38,7 @@
 Present and future project information can be found here.
 
 ## Current Project Status:
+#### Magic: The Gathering - A search engine created for a more visual experience
 - [x] Identified re-rendering components in React
 - [ ] Consolidate states in React Context or seperate components
 - [ ] Create a separate API call for Card Set that can be called from each individual card
