@@ -14,6 +14,7 @@
   - CSS
   - Javascript
   - React
+  - Firebase
 
 - ### 💡 Interested in :
 
