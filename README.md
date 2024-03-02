@@ -13,6 +13,7 @@
   - HTML
   - CSS
   - Javascript
+  - Typescript
   - React
   - Firebase
 
@@ -29,7 +30,7 @@
 
 - ### 🌱 Currently learning :
 
-  - React component re-rendering handling
+  - Typescript React implementation
 
 - ### 📫 Contact :
 
@@ -39,10 +40,11 @@
 Present and future project information can be found here.
 
 ## Current Project Status:
-#### Magic: The Gathering - A search engine created for a more visual experience
+#### MTG Library Browser - A detailed library browser for the Magic: The Gathering card database.
 - [x] Identified re-rendering components in React
 - [x] Consolidate states in React Context or seperate components
-- [ ] Create a separate API call for Card Set that can be called from each individual card
+- [x] Create a separate API call for Card Set that can be called from each individual card
+- [x] Refactor code to be more concise and possibly move parts of the logic to seperate hooks
 
 ![Magic The Gathering Logo](https://media.wizards.com/2017/images/daily/41mztsnrdm.jpg)
 
