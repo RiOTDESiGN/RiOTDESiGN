@@ -16,6 +16,7 @@
   - Typescript
   - React
   - Firebase
+  - Tailwind
 
 - ### 💡 Interested in :
 
