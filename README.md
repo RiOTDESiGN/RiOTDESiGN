@@ -31,7 +31,7 @@
 
 - ### 🌱 Currently learning :
 
-  - Typescript React implementation
+  - Node.js, Express and MongoDB.
 
 - ### 📫 Contact :
 
