@@ -15,6 +15,8 @@
   - Javascript
   - Typescript
   - React
+  - React Native
+  - Expo
   - Firebase
   - Tailwind
 
@@ -42,17 +44,10 @@ Present and future project information can be found here.
 
 ## Current Project Status:
 #### MTG Library Browser - A detailed library browser for the Magic: The Gathering card database.
-- [x] Identified re-rendering components in React
-- [x] Consolidate states in React Context or seperate components
-- [x] Create a separate API call for Card Set that can be called from each individual card
-- [x] Refactor code to be more concise and possibly move parts of the logic to seperate hooks
+#### Mobile app to be published on Google Play.
+#### User Panel for image sharing.
 
 ![Magic The Gathering Logo](https://media.wizards.com/2017/images/daily/41mztsnrdm.jpg)
-
-## Future Project Status:
-- [x] Decided on e-commerce concept using React and API
-- [ ] Find a theme and a line of products relevant to the project
-- [ ] Create color templates and layouts based on inspirational, pre-existing sites
 
 
 <!---
