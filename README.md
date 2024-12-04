@@ -43,9 +43,10 @@
 Present and future project information can be found here.
 
 ## Current Project Status:
-#### MTG Library Browser - A detailed library browser for the Magic: The Gathering card database.
-#### Mobile app to be published on Google Play.
 #### User Panel for image sharing.
+#### Mobile app to be published on Google Play.
+#### MTG Library Browser - A detailed library browser for the Magic: The Gathering card database.
+
 
 ![Magic The Gathering Logo](https://media.wizards.com/2017/images/daily/41mztsnrdm.jpg)
 
