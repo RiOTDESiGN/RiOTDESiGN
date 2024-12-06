@@ -8,32 +8,31 @@
 
 - ### 🗣️ Languages :
 
-  - Norwegian
-  - English
+  - Norwegian / English
   - HTML
   - CSS
-  - Javascript
-  - Typescript
-  - React
-  - React Native
+  - Javascript / Typescript
+  - React / React Native
+  - Vite / Metro
+  - Tailwind / NativeWind
   - Expo
   - Firebase
-  - Tailwind
 
 - ### 💡 Interested in :
 
+  - Coding
+  - Artificial Intelligence
+  - Gaming
+  - Image Editing
   - Psychology
   - Photography
-  - Gaming
-  - Coding
   - Music Production
   - Image Editing
-  - Artificial Intelligence
   - Virtual Reality
 
 - ### 🌱 Currently learning :
 
-  - Node.js, Express and MongoDB.
+  - React Native / NativeWind / Expo.
 
 - ### 📫 Contact :
 
@@ -46,6 +45,7 @@ Present and future project information can be found here.
 #### User Panel for image sharing.
 #### Mobile app to be published on Google Play.
 #### MTG Library Browser - A detailed library browser for the Magic: The Gathering card database.
+#### Clicker-based game made in React Javascript.
 
 
 ![Magic The Gathering Logo](https://media.wizards.com/2017/images/daily/41mztsnrdm.jpg)
