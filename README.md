@@ -47,10 +47,6 @@ Present and future project information can be found here.
 #### MTG Library Browser - A detailed library browser for the Magic: The Gathering card database.
 #### Clicker-based game made in React Javascript.
 
-
-![Magic The Gathering Logo](https://media.wizards.com/2017/images/daily/41mztsnrdm.jpg)
-
-
 <!---
 RiOTDESiGN/RiOTDESiGN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
