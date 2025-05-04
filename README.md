@@ -12,6 +12,7 @@
   - HTML
   - CSS
   - Javascript / Typescript
+  - jQuery
   - React / React Native
   - Vite / Metro
   - Tailwind / NativeWind
